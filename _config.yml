@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-url: "https://hhahyt.github.io"
+url: "https://hhc2tech.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -145,7 +145,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Vietnam/Hanoi"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
