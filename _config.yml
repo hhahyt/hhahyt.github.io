@@ -4,8 +4,8 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-url: "https://hhc2tech.github.io"
-baseurl: ""
+#url: "https://hhc2tech.github.io"
+#baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -14,10 +14,19 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Trang thông tin Kỹ thuật Xây dựng Công trình biển và Công nghệ Nền móng
+#title: Trang thông tin Kỹ thuật Xây dựng Công trình biển và Công nghệ Nền móng
 
 # Short description of your site
-description: Cập nhật công nghệ - Hướng tới tương lai
+#description: Cập nhật công nghệ - Hướng tới tương lai
+
+
+
+# Site settings
+title: hhc2tech
+description: "Trang thông tin Kỹ thuật Xây dựng Công trình biển và Công nghệ Nền món"
+baseurl: "/hhc2tech" 
+url: "http://quangvunp.github.io/geomechanics" 
+tagline: Cập nhật công nghệ - Hướng tới tương lai
 
 # --- Navigation bar options --- #
 
