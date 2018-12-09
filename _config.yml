@@ -23,7 +23,7 @@
 
 # Site settings
 title: hhc2tech
-description: "Trang thông tin Kỹ thuật Xây dựng Công trình biển và Công nghệ Nền món"
+description: "Trang thông tin Kỹ thuật Xây dựng Công trình biển và Công nghệ Nền móng"
 baseurl: "/hhc2tech" 
 url:  "http://hhc2tech.github.io/hhc2tech" 
 tagline: Cập nhật công nghệ - Hướng tới tương lai
@@ -34,7 +34,7 @@ tagline: Cập nhật công nghệ - Hướng tới tương lai
 navbar-links:
   About Me: "Tác giả"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    -  "Trang thông tin Kỹ thuật Xây dựng Công trình biển và Công nghệ Nền móng": "http://hhc2tech.blogspot.com/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
   Author's home: "http://hhc2tech.blogspot.com/"
